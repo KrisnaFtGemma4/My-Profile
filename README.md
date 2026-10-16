@@ -67,6 +67,26 @@ A few projects I'm working on and learning from.
   />
 </div>
 
+### Other Repository
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>📚 Materi HTML</h3>
+      <p>
+        A learning repository for HTML materials and practice
+        while developing my web development fundamentals.
+      </p>
+      <p>
+        <strong>Focus:</strong> HTML · Web Development Fundamentals
+      </p>
+      <a href="https://github.com/KrisnaFtGemma4/Materi-html">
+        View Repository →
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Contribution Activity
 
 <div align="center">
