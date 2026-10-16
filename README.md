@@ -71,7 +71,7 @@ A few projects I'm working on and learning from.
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/KrisnaFtGemma4/output/snake.svg"
+    src="https://raw.githubusercontent.com/KrisnaFtGemma4/KrisnaFtgemma4/output/snake.svg"
     alt="Snake animation of GitHub contributions"
     width="100%"
   />
