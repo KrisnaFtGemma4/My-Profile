@@ -45,45 +45,16 @@ levels of proficiency.*
 
 A few projects I'm working on and learning from.
 
-<!-- Replace these placeholders with actual repository links. -->
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Project One</h3>
-      <p>
-        Describe a real project, the problem it solves,
-        and what you learned while building it.
-      </p>
-      <p><strong>Tech:</strong> Add the technologies used</p>
-      <a href="https://github.com/pennyslxkrsn">
-        View repositories →
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Project Two</h3>
-      <p>
-        Showcase a project demonstrating your frontend,
-        UI/UX, or programming skills.
-      </p>
-      <p><strong>Tech:</strong> Add the technologies used</p>
-      <a href="https://github.com/pennyslxkrsn">
-        View repositories →
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## GitHub Overview
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=pennyslxkrsn&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=KrisnaFtGemma4&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
     alt="Krisna's GitHub statistics"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pennyslxkrsn&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrisnaFtGemma4&layout=compact&hide_border=true&theme=transparent"
     alt="Most-used programming languages"
     height="165"
   />
@@ -91,7 +62,7 @@ A few projects I'm working on and learning from.
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=pennyslxkrsn&hide_border=true&theme=transparent"
+    src="https://streak-stats.demolab.com?user=KrisnaFtGemma4&hide_border=true&theme=transparent"
     alt="GitHub contribution streak"
   />
 </div>
@@ -114,7 +85,6 @@ A few projects I'm working on and learning from.
 
 *Learn consistently. Build thoughtfully. Improve continuously.*
 
-[GitHub Profile](https://github.com/pennyslxkrsn)
+[GitHub Profile](https://github.com/KrisnaFtGemma4)
 
 </div>
-```
