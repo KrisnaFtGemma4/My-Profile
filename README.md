@@ -1,6 +1,5 @@
 ## project-ku
 
-```html
 <div align="center">
 
 # Krisna
